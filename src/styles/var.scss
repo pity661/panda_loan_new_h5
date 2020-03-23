@@ -1,0 +1,47 @@
+//APP默认颜色
+$defaultColor:#42bd56;
+
+// 主题色
+$themeColor:#1e81d2;
+$themeSimpleColor: #f23e3f;
+
+//header
+$headerBg: $defaultColor;
+$headerDefaultColor: rgb(73, 73, 73);
+$headerBorderColor: #e4e4e4;
+//tabbar
+$tabbarBorderColor: #e4e4e4;
+$tabbarActiveColor: $defaultColor;
+
+$backgroundColor: #f5f5f5;
+$darkTextColor: #333;
+$textColor: #666;
+$lighterTextColor: #999;
+$darkerTextColor: #292929;
+$darkestTextColor: #332f2e;
+$hitColor: #fc453c;
+
+$lightBorder: #eeeff1;
+$borderGrey: #d6d7dc;
+$darkerBorder: #b1b1b1;
+
+$white: #fff;
+
+// button
+$btnColor: #519bf4;
+
+// tag
+$tagSecondColor: #08cdd5;
+
+
+
+$rem: 1rem/40;
+$baseFontSize: 30 * $rem;
+$bigFontSize: 36 * $rem;
+$middleFontSize: 28 * $rem;
+$smallFontSize: 24 * $rem;
+
+
+.mt {
+    margin-top: 12 * $rem;
+}
